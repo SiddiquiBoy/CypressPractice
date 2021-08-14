@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "@types/testing-library__cypress": "^5.0.9",
-    "cypress-real-events": "^1.5.0"
+    "cypress-real-events": "^1.5.0",
+    "prettier": "^2.3.2"
   }
 }
